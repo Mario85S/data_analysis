@@ -2,7 +2,9 @@
 # Simple_Linear_Regression - Insurance Charges Prediction
 
 ## Description
-This project uses a Linear Regression model to predict insurance charges based on age. The dataset used in this project is insurance.csv, which contains data about different people’s ages and their corresponding insurance charges. The project involves data loading, data visualization, model training, prediction, and result visualization.
+This project uses a Linear Regression model to predict insurance charges based on age. The dataset used in this project is insurance.csv,
+which contains data about different people’s ages and their corresponding insurance charges.
+The project involves data loading, data visualization, model training, prediction, and result visualization.
 
 ** Overview of what the code does: **
 
