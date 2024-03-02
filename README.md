@@ -1,4 +1,20 @@
 ```markdown
+# Simple_Linear_Regression - Insurance Charges Prediction
+
+## Description
+This project uses a Linear Regression model to predict insurance charges based on age. The dataset used in this project is insurance.csv, which contains data about different people’s ages and their corresponding insurance charges. The project involves data loading, data visualization, model training, prediction, and result visualization.
+
+**Overview of what the code does:**
+
+Data Loading: The code begins by importing necessary libraries and loading the insurance.csv file into a pandas DataFrame.
+Data Visualization: A scatter plot is created to visualize the relationship between age and insurance charges.
+Model Training: A Linear Regression model is trained using the age as the predictor variable and insurance charges as the target variable.
+Prediction: The trained model is then used to make predictions.
+Result Visualization: The predictions are plotted against the actual values to visualize the performance of the model.
+
+## Credits
+This project was created by Mariusz Sawka
+
 # Pandas_Report
 
 ## Description
